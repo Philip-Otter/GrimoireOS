@@ -3,6 +3,7 @@ base
 bolt
 brltty
 broadcom-wl
+bubblewrap
 busybox
 cryptsetup
 dmidecode
