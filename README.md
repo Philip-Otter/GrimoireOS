@@ -1,0 +1,10 @@
+# ![](https://img.shields.io/badge/Grimoire-OS-9033cc?style=plastic&labelColor=4e342e)
+## Color Scheme
+![](https://img.shields.io/badge/4e342e-4e342e?style=plastic)
+![](https://img.shields.io/badge/9033cc-9033cc?style=plastic)
+![](https://img.shields.io/badge/ffd54f-ffd54f?style=plastic)
+![](https://img.shields.io/badge/ffca28-ffca28?style=plastic)
+![](https://img.shields.io/badge/e0d7c1-e0d7c1?style=plastic)
+![](https://img.shields.io/badge/211a18-211a18?style=plastic)
+![](https://img.shields.io/badge/db6ac-4db6ac?style=plastic)
+![](https://img.shields.io/badge/8d2d2d-8d2d2d?style=plastic)
