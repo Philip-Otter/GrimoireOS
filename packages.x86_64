@@ -12,7 +12,6 @@ edk2-shell
 efibootmgr
 espeakup
 fsarchiver
-go
 gpm
 gptfdisk
 gum
