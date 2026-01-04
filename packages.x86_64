@@ -24,6 +24,8 @@ linux
 linux-firmware
 linux-firmware-marvell
 lynx
+memtest86+
+memtest86+-efi
 micro
 mkinitcpio
 mkinitcpio-nfs-utils
