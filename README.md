@@ -1,4 +1,5 @@
-# ![](https://img.shields.io/badge/Grimoire-OS-9033cc?style=plastic&labelColor=4e342e)
+# ![](https://img.shields.io/badge/Grimoire-OS-9033cc?style=plastic&labelColor=4e342e) ![GitHub last commit](https://img.shields.io/github/last-commit/Philip-Otter/GrimoireOS?style=plastic&labelColor=211a18&color=e0d7c1)
+
 ## Color Scheme
 |Example | Copyable |
 |:--:|:--:|
